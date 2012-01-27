@@ -1,0 +1,77 @@
+/* Structure */
+
+.eG-body, .eG-page {
+	background: #fff;
+}
+
+.eG-page table {
+	margin: auto;
+}
+
+.eG-page table td {
+	outline: 1px solid rgba(0,0,0,0.05);
+	
+	vertical-align: top;
+}
+
+.eG-page .eG-header td {
+	vertical-align: middle;
+}
+
+.eG-page .eG-previewText {
+	color: transparent;
+	display: none;
+	height: 1px;
+}
+
+.eG-page .eG-rule {
+	border: 1px solid #333;
+	margin: 1em auto;
+	width: 580px;
+}
+
+/* Typography */
+
+.eG-page td {
+	color: #333;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	-webkit-text-size-adjust: none;
+}
+
+.eG-page .eG-view, .eG-page .eG-footer td {
+	font-size: 12px;
+	text-align: center;
+}
+
+.eG-page td h1, .eG-page td h2, .eG-page td h3, .eG-page td p, .eG-page td li {
+	line-height: 1.5em;
+}
+
+.eG-page td p {
+	margin-bottom: 0;
+}
+
+.eG-page .eG-view p {
+	margin: 1em 0;
+}
+
+.eG-page td h1, .eG-page td h2, .eG-page td h3 {
+	margin-top: 0;
+}
+
+.eG-page td h1 {
+	font-size: 20px;
+}
+
+.eG-page td h2 {
+	font-size: 18px;
+}
+
+.eG-page td h3 {
+	font-size: 16px;
+}
+
+.eG-page td a {
+	color: #000;
+}
