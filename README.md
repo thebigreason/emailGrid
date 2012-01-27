@@ -28,7 +28,7 @@ Tables, tables, tables! Tables is stable, and we need to kick it oldschool for e
 
 ###Email Service Placeholder Variables
 
-* [eG-unsubscribe] = Campaign Monitor: <unsubscribe>opt-out</unsubscribe> MailChimp: <a href="*|UNSUB|*">opt-out</a> (required by US law)
+* [eG-unsubscribe] = Campaign Monitor: \<unsubscribe>opt-out</unsubscribe> MailChimp: \<a href="*|UNSUB|*">opt-out</a> (required by US law)
 * [eG-subscriberEmail] = Campaign Monitor: [email] MailChimp: \*|EMAIL|*
 
 It’s in a usable state now, but watch for updates in the coming weeks. I’m about to run it through some rigorous testing.
